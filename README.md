@@ -33,3 +33,18 @@ To build an intelligent assistant that:
 ---
 
 ##  Project Structure
+study-buddy/
+│
+├── agent.py
+├── dataset.py
+├── capstone_streamlit.py
+├── requirements.txt
+└── README.md
+
+---
+
+## How to Run
+
+```bash
+pip install -r requirements.txt
+streamlit run capstone_streamlit.py
